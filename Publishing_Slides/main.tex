@@ -1,0 +1,83 @@
+\documentclass{beamer}
+\usetheme{Boadilla}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{threeparttablex}
+\usepackage{mathpazo}
+\usepackage[mathpazo]{flexisym}
+\usepackage{array}
+\usepackage{caption}
+\captionsetup[figure]{font=scriptsize}
+\usepackage{graphicx}
+\usepackage{threeparttablex}
+\usepackage[labelformat=empty]{subfig}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+
+\newcommand\hd[2]{\multicolumn{2}{c}{\begin{tabular}{@{}c@{}}#2\end{tabular}}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\let\estinput=\input
+\newcommand{\estwide}[3]{
+        \vspace{.75ex}{
+            \textsymbols
+            \begin{tabular*}
+            {\textwidth}{@{\hskip\tabcolsep\extracolsep\fill}l*{#2}{#3}}
+            \toprule
+            \estinput{#1}
+            \bottomrule
+            \addlinespace[.75ex]
+            \end{tabular*}
+            }
+        }
+
+\newcommand{\estauto}[3]{
+        \vspace{.75ex}{
+            \textsymbols
+            \begin{tabular}{l*{#2}{#3}}
+            \toprule
+            \estinput{#1}
+            \bottomrule
+            \addlinespace[.75ex]
+            \end{tabular}
+            }
+        }
+
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\definecolor{MyBackground}{rgb}{0.95,0.95,0.96}
+\setbeamercolor{background canvas}{bg=MyBackground}
+
+\definecolor{UniBlue}{RGB}{83,121,170}
+\setbeamercolor{title}{fg=UniBlue}
+\setbeamercolor{frametitle}{fg=UniBlue}
+\setbeamercolor{structure}{fg=UniBlue}
+\setbeamertemplate{footline}{}
+
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+\title[]{Project Workflow}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\beamertemplatenavigationsymbolsempty
+\begin{frame}{Project Workflow - Motivation}
+    \begin{figure}
+        \includegraphics[scale=0.35]{clutter.jpeg}
+    \end{figure}      
+\end{frame}
+
+\end{document}
