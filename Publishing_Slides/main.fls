@@ -387,9 +387,10 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncms
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecss0900.tfm
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.nav
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.toc
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.snm
@@ -398,8 +399,8 @@ INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_M
 INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.out
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
