@@ -388,9 +388,15 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncms
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecss0900.tfm
-INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
-INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
-INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/rates.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe_micro.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe_micro.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jpe_micro.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jole.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jole.png
+INPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/images/jole.png
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.nav
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.toc
 OUTPUT /Users/kevin2/Dropbox/Documents/Teaching Materials/Research Methods/Econ_Methods/Publishing_Slides/main.snm
